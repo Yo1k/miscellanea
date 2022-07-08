@@ -1,0 +1,3 @@
+mypy==0.931
+pylint==2.14
+pytest==7.1.1
